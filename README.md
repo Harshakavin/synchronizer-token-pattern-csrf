@@ -1,2 +1,4 @@
-# synchronizer-token-pattern-csrf
-Cross Site Request Forgery vulnerability example on web applications.
+# Cross Site Request Forgery 01
+clone the SSD1 folder and put it inside htdocs. Access using localhost/ssd1/
+Password : ssd1
+Username : admin
