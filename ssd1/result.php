@@ -4,7 +4,7 @@
 if(isset($_POST['username'],$_POST['password'])){
 	$uname = $_POST['username'];
 	$pwd = $_POST['password'];
-	if($uname == 'admin' && $pwd == 'ssd'){
+	if($uname == 'admin' && $pwd == 'ssd1'){
 		echo '<h3>Successfully logged in</h1>';
 	
 	}
