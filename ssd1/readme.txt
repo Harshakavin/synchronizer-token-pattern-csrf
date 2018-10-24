@@ -1,2 +1,2 @@
 
-This is csrf synchroizer token pattern sample web application.
+This is a csrf synchroizer token pattern sample web application.
